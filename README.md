@@ -57,6 +57,10 @@ The project was built with **Visual Studio** on Windows.
 4. Make sure `freeglut.dll` is next to the executable (or on the system path).
 5. Build and run.
 
+## Presentation
+
+The slides used to present the project, with screenshots of every scene: [The_Lost_Lantern_Presentation.pdf](docs/The_Lost_Lantern_Presentation.pdf)
+
 ## Team project
 
 This was a team project by 4 students for **CS2206 Computer Graphics**.
